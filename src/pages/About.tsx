@@ -17,7 +17,7 @@ import { Link } from 'react-router-dom';
 const About = () => {
   const team = [
     {
-      name: 'Alex Chen',
+      name: 'Aditya Pandey',
       role: 'CEO & Co-founder',
       bio: 'Former Instagram PM with 8 years building social media platforms',
       image: '/api/placeholder/150/150',
@@ -25,7 +25,7 @@ const About = () => {
       twitter: '#'
     },
     {
-      name: 'Sarah Rodriguez',
+      name: 'Aditya Kushwaha',
       role: 'CTO & Co-founder', 
       bio: 'AI/ML expert, previously at OpenAI and Google DeepMind',
       image: '/api/placeholder/150/150',
@@ -33,7 +33,7 @@ const About = () => {
       twitter: '#'
     },
     {
-      name: 'Marcus Johnson',
+      name: 'Adi',
       role: 'Head of Product',
       bio: 'Product leader focused on creator economy and social commerce',
       image: '/api/placeholder/150/150',
